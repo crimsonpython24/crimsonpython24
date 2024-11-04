@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+I lurk in private repos :) 
+
+Personal website wip i.e. it will take another 1.5 years to be published
 
 <!--
 **crimsonpython24/crimsonpython24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
