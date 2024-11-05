@@ -4,6 +4,8 @@ I lurk in private repos :)
 
 Personal website wip i.e. it will take another 1.5 years to be published
 
+Django/Flask/HTML-CSS/jQuery/React/TS/Redis/Postgres (the influencer stack before they become so), wannabe backend dev and database/devops engineer
+
 <!--
 **crimsonpython24/crimsonpython24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
