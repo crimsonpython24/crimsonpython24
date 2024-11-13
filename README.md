@@ -13,7 +13,7 @@ I learned (in chronological order)
 
 I'm also a wannabe full-time backend dev, database/devops engineer, and professional table tennis player*
 
-* some random paddle ➡️ hurricane hao II/stiga dna pro m/andro hexer grip ➡️ ovtcharov alc/DHS hurricane neo III BS/nittaku c1
+*some random paddle ➡️ hurricane hao II/stiga dna pro m/andro hexer grip ➡️ ovtcharov alc/DHS hurricane neo III BS/nittaku c1
 
 生是台灣人，死是台灣鬼
 
