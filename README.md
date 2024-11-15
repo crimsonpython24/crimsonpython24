@@ -18,7 +18,7 @@ I learned (in chronological order)
 
 I'm also a wannabe backend dev, database/security engineer, apple product hater, and professional table tennis player.
 
-<sub>Last updated: 2024-11-13 11:43 PDT</sub>
+<sub>Last updated: 2024-11-15 13:04 PDT</sub>
 
 <!--
 **crimsonpython24/crimsonpython24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
