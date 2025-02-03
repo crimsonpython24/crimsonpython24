@@ -11,7 +11,7 @@ Yes I'm a web dev. No I do not have a personal site yet.
   <img height="100px" width="100px" src="https://raw.githubusercontent.com/crimsonpython24/crimsonpython24/refs/heads/main/asphaltlu.webp"/>
 </div>
 
-I code like molasses, 2/3 because I have plenty of schoolwork, and 1/3 because I sleep 9 hrs a day & nothing will change that
+I code like molasses, 2/3 because I have plenty of schoolwork, and 1/3 because I sleep 9<em>+</em> hrs a day & nothing will change that
 
 I learned (in chronological order) 
  - Flask/HTML-CSS/jQuery/SQLite
@@ -22,7 +22,7 @@ I'm also a wannabe backend dev, database/security engineer, linux wizard of some
 
 
 <details>
-  <summary>Last updated: 2025-02-03 12:56 PDT</summary>
+  <summary>Last updated: 2025-02-03 13:08 PDT</summary>
   <br/>
   $f(x;\alpha,\beta) = \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha,\beta)}$, $B(\alpha,\beta) = \frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha+\beta)}$ 
   
