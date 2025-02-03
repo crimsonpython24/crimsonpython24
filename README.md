@@ -18,11 +18,11 @@ I learned (in chronological order)
  - Django/Postgres/Redis/Celery
  - Node/React/TS/tailwind ✨AKA✨ the influencer-freecodecamp stack before it became so
 
-I'm also a wannabe backend dev, database/security engineer, linux wizard of some sort, and professional table tennis player.
+I'm also a wannabe backend dev, database/security engineer, linux wizard of some sort, and professional [table tennis player](https://www.tabletennisdaily.com/forum/members/crimsonpython24.104645/#about).
 
 
 <details>
-  <summary>Last updated: 2025-02-03 13:08 PDT</summary>
+  <summary>Last updated: 2025-02-03 13:26 PDT</summary>
   <br/>
   $f(x;\alpha,\beta) = \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha,\beta)}$, $B(\alpha,\beta) = \frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha+\beta)}$ 
   
