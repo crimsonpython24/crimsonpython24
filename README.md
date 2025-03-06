@@ -22,11 +22,11 @@ I'm also a wannabe backend dev, database/security engineer, linux wizard of some
 
 
 <details>
-  <summary>Last updated: 2025-02-03 13:27 PDT</summary>
+  <summary>Last updated: 2025-03-06 13:24 PDT</summary>
   <br/>
   $f(x;\alpha,\beta) = \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha,\beta)}$, $B(\alpha,\beta) = \frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha+\beta)}$ 
   
-  <sup>Beta distributions in Bayesian inference provide conjugate prior probability distributions, i.e., its domain can be viewed as a probability.</sup>
+  <sup>Beta distributions in Bayesian inference provide conjugate prior probability distributions, and its domain can be viewed as a probability.</sup>
 </details>
 
 <!--
