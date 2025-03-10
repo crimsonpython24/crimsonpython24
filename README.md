@@ -2,8 +2,9 @@
 
 I lurk in private repos, working on projects that fate forbid be uncovered :) 
 
-> i.e., trying to get hired post-undergrad by working these many unpaid web dev jobs:
-> ```f(x)=\operatorname{floor}(0.5*(1+\operatorname{erf}((x-2)/(0.5*\sqrt{2})))/0.25)*0.25``` &#8592; paste into [Desmos](https://www.desmos.com/calculator)
+> i.e., trying to get hired post-undergrad by working $$P = \frac{1}{x \cdot 0.5 \cdot \sqrt{2\pi}} \cdot e^{-\frac{(\ln(x) - 0.35)^2}{2 \cdot (0.3)^2}} \cdot 1.1$$ unpaid web dev jobs
+> <img height="200px" src="https://github.com/user-attachments/assets/01e2c86f-e681-4e7b-a295-e6fbf4ce86f0"/>
+
 
 Yes I'm a web dev. No I do not have a personal site yet.
 
@@ -22,7 +23,7 @@ I learned (in chronological order)
 I'm also a wannabe backend dev, database/security engineer, linux wizard of some sort, and professional <a target="_blank" href="https://www.tabletennisdaily.com/forum/members/crimsonpython24.104645/#about">table tennis player</a>.
 
 
-<sub>Last updated: 2025-03-10 12:24 PDT</sub>
+<sub>Last updated: 2025-03-10 12:45 PDT</sub>
 
 <!--
 **crimsonpython24/crimsonpython24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
