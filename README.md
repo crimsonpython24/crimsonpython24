@@ -2,7 +2,8 @@
 
 I lurk in private repos, working on projects that fate forbid be uncovered :) 
 
-> i.e., trying to get hired post-undergrad by working $Z∼N(2,0.5)$ unpaid web dev jobs
+> i.e., trying to get hired post-undergrad by working these many unpaid web dev jobs:
+> ```f(x)=\operatorname{floor}(0.5*(1+\operatorname{erf}((x-2)/(0.5*\sqrt{2})))/0.25)*0.25``` &#8592; paste into [Desmos](https://www.desmos.com/calculator)
 
 Yes I'm a web dev. No I do not have a personal site yet.
 
@@ -21,13 +22,7 @@ I learned (in chronological order)
 I'm also a wannabe backend dev, database/security engineer, linux wizard of some sort, and professional <a target="_blank" href="https://www.tabletennisdaily.com/forum/members/crimsonpython24.104645/#about">table tennis player</a>.
 
 
-<details>
-  <summary>Last updated: 2025-03-06 13:24 PDT</summary>
-  <br/>
-  $f(x;\alpha,\beta) = \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha,\beta)}$, $B(\alpha,\beta) = \frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha+\beta)}$ 
-  
-  <sup>Beta distributions in Bayesian inference provide conjugate prior probability distributions, and its domain can be viewed as a probability.</sup>
-</details>
+<sub>Last updated: 2025-03-10 12:24 PDT</sub>
 
 <!--
 **crimsonpython24/crimsonpython24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
