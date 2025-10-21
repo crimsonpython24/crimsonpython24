@@ -9,7 +9,7 @@ Yes I'm a web dev. No I do not have a personal site. Feel free to check out my [
   <img height="100px" width="100px" src="https://raw.githubusercontent.com/crimsonpython24/crimsonpython24/refs/heads/main/asphaltlu.webp"/>
 </div>
 
-I code like molasses, 1/3 due to schoolwork, 1/3 for sport clubs, and 1/3 because I sleep 9 hrs a day & nothing will change that
+I code like molasses, 2/3 due to schoolwork, and 1/3 because I sleep 9 hrs a day & nothing will change that
 
 I learned in chronological order:
  - Flask/HTML-CSS/jQuery/SQLite
