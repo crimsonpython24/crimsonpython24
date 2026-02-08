@@ -1,8 +1,10 @@
 # Warren Wang
 
-Computer Science graduate student at USC who produces maintainable full-stack web applications. Previously optimized React rendering pipelines, API response times, and database query performance at ArchNexus and Crypto-Arsenal.
+M.S. Computer Science student at USC building maintainable full-stack web applications. No visa sponsorship required.
 
-**Interests:** Server and network security, backend scalability, user interaction and experience
+Optimized React rendering pipelines and database query performance at Crypto-Arsenal and built JWT-based authentication infrastructure at ArchNexus. Also contributed to Stack Overflow (top 0.3% Django, 200K+ reach in Q3 2020).
+
+**Interests:** Server and network security, backend architecture and scalability, intuitive UI design
 
 ---
 
@@ -16,9 +18,9 @@ Computer Science graduate student at USC who produces maintainable full-stack we
 
 ### Core Stack
 **Languages:** TypeScript, Python, C++, C  
-**Frontend:** React, Next.js, Redux, GraphQL  
+**Frontend:** React, Next.js, GraphQL  
 **Backend:** Django, Node.js/Express, Flask  
-**Infrastructure:** Docker, Redis, PostgreSQL, Prisma  
+**Infrastructure:** Docker, PostgreSQL, Redis, Prisma, WebSocket  
 **Testing:** Jest, Storybook
 
-**Also works with:** MySQL, MongoDB, Tailwind CSS, Git, Linux/Debian, Bash
+Also works with Redux, MySQL, MongoDB, Tailwind CSS, Git, Linux/Debian, Bash
