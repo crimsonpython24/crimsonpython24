@@ -1,6 +1,6 @@
 # Warren Wang
 
-M.S. Computer Science student at USC building full-stack web applications. No visa sponsorship required.
+M.S. Computer Science student at USC building full-stack web applications.
 
 Optimized React rendering pipelines and database query performance at Crypto-Arsenal and JWT-based infrastructure at ArchNexus. Contributed to Stack Overflow (top 0.3% Django, 200K+ reach in Q3 2020).
 
