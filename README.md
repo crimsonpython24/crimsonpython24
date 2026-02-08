@@ -2,7 +2,7 @@
 
 M.S. Computer Science student at USC building maintainable full-stack web applications. No visa sponsorship required.
 
-Optimized React rendering pipelines and database query performance at Crypto-Arsenal and built JWT-based authentication infrastructure at ArchNexus. Also contributed to Stack Overflow (top 0.3% Django, 200K+ reach in Q3 2020).
+Optimized React rendering pipelines and database query performance at Crypto-Arsenal, and built JWT-based infrastructure at ArchNexus. Also contributed to Stack Overflow (top 0.3% Django, 200K+ reach in Q3 2020).
 
 **Interests:** Server and network security, backend architecture and scalability, intuitive UI design
 
