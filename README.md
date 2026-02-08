@@ -18,10 +18,10 @@ Optimized React rendering pipelines and database query performance at Crypto-Ars
 ---
 
 ### Core Stack
-**Languages:** TypeScript, Python, C++
-**Frontend:** React, Next.js, GraphQL, TailwindCSS
-**Backend:** Django, Node.js/Express, Flask
-**Infrastructure:** Docker, PostgreSQL, Redis, Prisma, WebSocket
+**Languages:** TypeScript, Python, C++  
+**Frontend:** React, Next.js, GraphQL, TailwindCSS  
+**Backend:** Django, Node.js/Express, Flask  
+**Infrastructure:** Docker, PostgreSQL, Redis, Prisma, WebSocket  
 **Testing:** Jest, Storybook
 
 Also works with Redux, MySQL, MongoDB, Git, SASS, Linux/Debian, C, Bash
