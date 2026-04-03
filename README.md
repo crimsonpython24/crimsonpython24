@@ -1,6 +1,6 @@
 # Warren Wang
 
-I am a M.S. Computer Science student at USC who builds full-stack web applications. I currently intern at [TSMC](https://www.tsmc.com/english/aboutTSMC) as a Web Applications System Engineer.
+I am a M.S. Computer Science student at USC who builds full-stack web applications.
 
 I optimized React rendering pipelines, API and database query, and JWT-based infrastructure at Crypto-Arsenal and ArchNexus. I also contributed to Stack Overflow (275K+ reach).
 
