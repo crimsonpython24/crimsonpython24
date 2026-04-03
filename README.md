@@ -12,7 +12,7 @@ I optimized React rendering pipelines, API and database query, and JWT-based inf
 [![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat-square)](https://www.github.com/crimsonpython24/)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=inspire&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square)](https://www.linkedin.com/in/yjwarrenwang)
 [![Stack Overflow](https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=F58025&logoColor=white&labelColor=&style=flat-square)](https://stackoverflow.com/users/12467282/crimsonpython24)
-[![Table Tennis Daily](https://img.shields.io/static/v1?message=Table%20Tennis%20Daily&logo=discourse&label=&color=3D65B3&logoColor=white&labelColor=&style=flat-square)](https://www.tabletennisdaily.com/forum/members/snakicized17.147746/)
+[![Table Tennis Daily](https://img.shields.io/static/v1?message=Table%20Tennis%20Daily&logo=discourse&label=&color=3D65B3&logoColor=white&labelColor=&style=flat-square)](https://www.tabletennisdaily.com/forum/members/snakicized17.147746/#about)
 [![Email](https://img.shields.io/static/v1?message=Email&logo=protonmail&label=&color=8B89CC&logoColor=white&labelColor=&style=flat-square)](mailto:yjwarrenwang@pm.me)
 
 ---
