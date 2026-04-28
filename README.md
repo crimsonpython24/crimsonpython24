@@ -1,6 +1,6 @@
 # Warren Wang
 
-I am a M.S. Computer Science student at USC who builds full-stack web applications. Currently SDE Intern @ Amazon.
+I am a M.S. Computer Science student at USC who builds full-stack web applications. Current SDE Intern @ Amazon.
 
 I optimized React rendering pipelines, API and database query, and JWT-based infrastructure at Crypto-Arsenal and ArchNexus. I also contributed to Stack Overflow (275K+ reach).
 
